@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Smruthi Jha
 **A passionate Engineer || 2nd year student || Haryana , India**
 
-Email Me 👉 ✉️ **smruthijha** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 **smruthijha@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Academic and personal projects to strengthen my technical foundation
 - 🌱 **I’m currently learning:** AI fundamentals, programming concepts, and modern technology tools
