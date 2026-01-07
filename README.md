@@ -1,58 +1,65 @@
 <div align="center">
 
-<h1>Smruthi Jha</h1>
+<!-- NAME ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=42&duration=2500&pause=800&color=2E86AB&center=true&vCenter=true&width=600&lines=SMRUTHI+JHA" />
 
-<p><strong>Engineering Student | Learning Through Practice | Technology Explorer</strong></p>
+<!-- TAGLINE ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=2500&pause=800&color=4CA1AF&center=true&vCenter=true&width=700&lines=Engineering+Student+%7C+Curious+Learner+%7C+Tech+Explorer" />
 
 </div>
 
 ---
 
-### About
-I am a second-year engineering student from Haryana, India, focused on building a strong technical base through consistent learning and hands-on work.  
-I prefer understanding concepts clearly before applying them and enjoy steady progress over shortcuts.
+### 👩‍💻 About Me
+I am a second-year engineering student from Haryana, India, focused on learning technology through strong fundamentals and hands-on practice.  
+I enjoy understanding concepts clearly and applying them effectively.
 
 ---
 
-### Current Focus
-- Academic and self-initiated technical projects  
-- Core programming concepts and problem solving  
-- Introductory AI concepts and modern tools  
+### 🔍 Current Focus
+- Academic and personal projects  
+- Programming fundamentals and problem-solving  
+- Learning AI concepts and modern tools  
+- Seeking internship and real-world experience  
 
 ---
 
-### Looking For
+### 🛠 Tech Stack
+`C++` · `Python` · `R` · `Node.js` · `MySQL` · `Power BI` · `Figma`
+
+---
+
+### 🤝 Open To
 - Beginner-friendly collaborations  
-- Project-based learning opportunities  
-- Internship exposure and industry guidance  
+- Learning-based projects  
+- Knowledge sharing and teamwork  
 
 ---
 
-### Skills & Tools
-- Programming: `C++`, `Python`, `R`  
-- Technologies: `Node.js`, `MySQL`  
-- Tools: `Power BI`, `Figma`  
-
----
-
-### Contact & Social
+### 🌐 Connect With Me
 - 📧 Email: **smruthijha@gmail.com**  
-- 🔗 LinkedIn: https://linkedin.com/in/smruthi017  
-- 📸 Instagram: https://instagram.com/irenicc._smriti  
-- 🐦 X: https://x.com/smruthix_vibez  
-- 💬 Discord: https://discord.gg/T5AwXMrj  
+- 💼 LinkedIn: [smruthi017](https://linkedin.com/in/smruthi017)  
+- 📸 Instagram: [irenicc._smriti](https://instagram.com/irenicc._smriti)  
+- 🐦 X: [smruthix_vibez](https://x.com/smruthix_vibez)  
+- 💬 Discord: [Join](https://discord.gg/T5AwXMrj)  
 
 ---
 
-### GitHub Overview
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smruthijha&theme=graywhite&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=smruthijha&show_icons=true&count_private=true&theme=blue-green&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smruthijha&layout=compact&theme=graywhite&hide_border=true" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smruthijha&theme=blue-green&hide_border=false" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Focused on learning, consistency, and long-term growth.</sub>
+<strong style="color:#4CA1AF">Learning steadily • Building intentionally • Growing continuously</strong>
+</p>
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=smruthijha&icon=0&color=12" />
 </p>
