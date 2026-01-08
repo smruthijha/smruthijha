@@ -43,23 +43,12 @@ I enjoy understanding concepts clearly and applying them effectively.
 - 🐦 X: [smruthix_vibez](https://x.com/smruthix_vibez)  
 - 💬 Discord: [Join](https://discord.gg/T5AwXMrj)  
 
----
+## 🔥 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=smruthijha&theme=blueberry)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-### 📊 GitHub Stats
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smruthijha&show_icons=true&count_private=true&theme=blue-green&hide_border=false" />
-  <br/>
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smruthijha&theme=blue-green&hide_border=false" />
-</p>
+## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=smruthijha&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-<p align="center">
-<strong style="color:#4CA1AF">Learning steadily • Building intentionally • Growing continuously</strong>
-</p>
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=smruthijha&icon=0&color=12" />
-</p>
+**Learning steadily • Building intentionally • Growing continuously**
