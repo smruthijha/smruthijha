@@ -78,8 +78,7 @@ I enjoy understanding concepts clearly and applying them effectively.
 - 💬 Discord: [Join](https://discord.gg/T5AwXMrj)  
 
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=smruthijha&theme=blueberry)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=smruthijha&theme=blueberry)]
 ## 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=smruthijha&theme=algolia&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
